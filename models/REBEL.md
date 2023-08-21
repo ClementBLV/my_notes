@@ -1,0 +1,3 @@
+#Generative-Model
+
+[[Generative Model]] 

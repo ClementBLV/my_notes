@@ -1,0 +1,18 @@
+{
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-day-planner:app:show-day-planner-timeline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

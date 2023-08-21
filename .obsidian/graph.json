@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"papers reviews\"",
+      "color": {
+        "a": 1,
+        "rgb": 10015724
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.390625,
+  "repelStrength": 13.3333333333333,
+  "linkStrength": 1,
+  "linkDistance": 316,
+  "scale": 0.6573525619682884,
+  "close": true
+}

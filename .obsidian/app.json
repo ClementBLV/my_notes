@@ -1,0 +1,9 @@
+{
+  "userIgnoreFilters": [
+    "images/",
+    "list/",
+    "daily/",
+    "Day Planners/"
+  ],
+  "spellcheck": true
+}
