@@ -4,127 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46fc406afb01252d",
+        "id": "ec85aa2cf0f7f84c",
         "type": "tabs",
         "children": [
           {
-            "id": "fac17e12152e6405",
+            "id": "08bddf267f5fcd56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers reviews/Relation Classification as Two-way Span-Prediction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2f1cbf5e3d93c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Planners/Day Planner-20230706.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6f9d5b07f612b30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ranking Metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "031ea611a04200a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0758c9dcaf04acfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GPU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac2e4a6fbd40a63f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2023-07-25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd62082c3c8be75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "utils/program tricks/Set Up WSL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f54a4df654180b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers reviews/Poincaré Embeddings for Learning Hierarchical Representations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b9bc318754e0891",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99cf5165b29c7d8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "environment.yml.md",
+                "file": "daily/2023-08-21.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utils/program tricks/Set Up WSL.md",
+                "file": "daily/2023-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utils/program tricks/Set Up WSL.md",
+                "file": "daily/2023-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utils/program tricks/Set Up WSL.md"
+                "file": "daily/2023-08-21.md"
               }
             }
           },
@@ -290,34 +185,36 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8211bcfa7fc25caa",
+  "active": "08bddf267f5fcd56",
   "lastOpenFiles": [
+    "daily/2023-08-23.md",
+    "TODO/Untitled.md",
+    "TODO/transform.md",
+    "utils/program tricks/GPU.md",
+    "papers reviews/Poincaré Embeddings for Learning Hierarchical Representations.md",
+    "utils/Site Web.md",
+    "TODO/Behavioral Testing of NLP Models with CheckList.md",
+    "TODO/Bim search.md",
+    "RC.md",
+    "TODO",
+    "TODO/Stable Diffusion Process.md",
+    "TODO/Sciamese encoders.md",
+    "TODO/CNN convolutional sentence encoder.md",
+    "Read Me.md",
+    "environment.yml.md",
+    "daily/2023-08-21.md",
+    "Day Planners/Day Planner-20230825.md",
+    "Pasted image 20230824220449.png",
+    "Day Planners/Day Planner-20230824.md",
+    "Day Planners/Day Planner-20230508.md",
+    "Day Planners/Day Planner-20230823.md",
+    "Day Planners/Day Planner-20230822.md",
     "daily/2023-07-25.md",
     "utils/program tricks/Set Up WSL.md",
     "Day Planners/Day Planner-20230821.md",
     "Day Planners/Day Planner-20230806.md",
-    "Untitled.md",
     "daily/2023-06-12.md",
-    "environment.yml.md",
-    "papers reviews/Poincaré Embeddings for Learning Hierarchical Representations.md",
     "Day Planners/Day Planner-20230801.md",
-    "list/paper_list.md",
-    "utils/program tricks/Random Seed.md",
-    "Read Me.md",
-    "list/source_list.md",
-    "papers reviews/Label Verbalization and Entailment for Effective Zero- and Few-Shot Relation Extraction.md",
-    "NLP_companies_list.md",
-    "GPU.md",
-    "Ranking Metrics.md",
-    "Day Planners/Day Planner-20230706.md",
-    "papers reviews/Relation Classification as Two-way Span-Prediction.md",
-    "Day Planners/Day Planner-20230731.md",
-    "Day Planners/Day Planner-20230730.md",
-    "Day Planners/Day Planner-20230729.md",
-    "list/YouTube_list.md",
-    "Day Planners/Day Planner-20230728.md",
-    "Day Planners/Day Planner-20230727.md",
-    "Day Planners/Day Planner-20230726.md",
     "images/Pasted image 20230706104550.png",
     "images/Pasted image 20230706105401.png",
     "Pasted image 20230706104428.png",
@@ -329,7 +226,6 @@
     "images/Pasted image 20230503110249.png",
     "models",
     "images/Pasted image 20230427115306.png",
-    "images/Pasted image 20230425224044.png",
     "Day Planners",
     "daily",
     "utils",
