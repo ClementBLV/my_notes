@@ -42,6 +42,9 @@ good source [here](https://analyticsindiamag.com/most-popular-datasets-for-neura
 
 [[Multi-NLI]] sentences explained 
 
+![[Pasted image 20230930183417.png]] from [[Textual Entailment for Event Argument Extraction]]: Zero- and Few-Shot with Multi-Source Learning
+
+
 ## QA 
 
 [[SQaD]] :

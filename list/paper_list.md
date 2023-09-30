@@ -186,6 +186,29 @@ link : https://arxiv.org/abs/1705.08039
 comments : Super interesting paper about the embedding of a knowledge base using a hyperspace in n-dimension 
 
 ----
+name :  [[Knowledge Transfer for Out of Knowledge Base Entities A Graph Neural Network Approach]] 
+tag : #WordNet  #KB_Population  
+publication date : 20 Jun 2017
+reading date : 19/09/2023
+link : https://arxiv.org/pdf/1706.05674.pdf
+comments : Wordnet population with GNN - out of the bow population 
+
+----
+name : [[Textual Entailment for Event Argument Extraction]]: Zero- and Few-Shot with Multi-Source Learning
+tag : #Entailement #RE #Zero-shot 
+publication date : 3 May 2022
+reading date : 30/09/2023
+link : https://arxiv.org/abs/2205.01376
+comments : Event extraction using entailment in a zero and few shot way. Good presentation of the entailment and the verbalization task
+
+----
+
+[[Knowledge Transfer for Out-of-Knowledge-Base Entities: Improving Graph-Neural-Network-Based Embedding Using Convolutional Layers]]
+
+[[Siamese Pre-Trained Transformer Encoder for Knowledge Base Completion]]
+
+[SimplE Embedding for Link Prediction in Knowledge Graphs ](https://proceedings.neurips.cc/paper/2018/hash/b2ab001909a8a6f04b51920306046ce5-Abstract.html) 
+
 
 
 [[2106.09685] LoRA: Low-Rank Adaptation of Large Language Models (arxiv.org)](https://arxiv.org/abs/2106.09685)
